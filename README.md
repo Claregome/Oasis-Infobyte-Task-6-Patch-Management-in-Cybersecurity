@@ -77,6 +77,6 @@ Confirm that patches were successfully installed and maintain records for auditi
 
 ## Conclusion
 
-Patch management is essential for maintaining a secure and resilient cybersecurity posture. Unpatched systems expose organizations to unnecessary risks, including cyberattacks, data breaches, and operational disruptions. By keeping software up to date and following best practices for patch management, organizations can significantly reduce vulnerabilities, improve system reliability, and strengthen overall security. In cybersecurity, timely patching is not optional—it is a fundamental responsibility.
+Patch management is essential for maintaining a secure and resilient cybersecurity posture. Unpatched systems expose organizations to unnecessary risks, including cyberattacks, data breaches, and operational disruptions. By keeping software up to date and following best practices for patch management, organizations can significantly reduce vulnerabilities, improve system reliability, and strengthen overall security. In cybersecurity, timely patching is not optional it is a fundamental responsibility.
 
 
